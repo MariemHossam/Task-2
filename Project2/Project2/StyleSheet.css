@@ -1,0 +1,165 @@
+*{
+    margin:0px;
+  
+}
+
+.homepage {
+    height:100vh;
+    background-size:cover;
+    background-image: url("bk2.jpeg");
+}
+
+.clearfix{
+    clear:both;
+}
+
+BODY
+{
+    background-color:black;
+}
+
+
+.logo{
+    width:80px;
+}
+.contact {
+    color: white;
+    float: right;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+.faq {
+    padding-right: 30px;
+    color: lawngreen;
+    float: right;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+.about {
+    color: dodgerblue;
+    float: right;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+.home {
+    color: tomato;
+    float: right;
+    padding-left: 40px;
+    padding-top: 30px;
+}
+
+.centertext{
+    text-align:center;
+    padding:220px;
+    font-size:xx-large;
+
+}
+.header{
+    margin-bottom:10px;
+}
+.button{
+    border-radius:50px;
+    margin:30px;
+    padding:15px;
+}
+.text{
+    background-color:black;
+    padding:50px;
+    
+}
+.ourteam{
+    color:lawngreen;
+    text-align:center;
+    font-size:37px;
+    padding:40px;
+}
+
+.divstyle {
+    text-align: center;
+    width: 25%;
+    float: left;
+    color: aliceblue;
+    
+}
+.parentdiv {
+    padding-right: 230px;
+    padding-left: 230px;
+    height: 20vh;
+}
+.image {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    border: solid black 4px;
+    margin:20px;
+   
+}
+.redoutline {
+    outline: solid tomato 5px;
+   
+}
+.redtext {
+    color: tomato;
+    font-size:large;
+}
+.blueoutline {
+    outline: solid dodgerblue 5px;
+}
+
+.bluetext {
+    color: dodgerblue;
+    font-size: large;
+}
+.whiteoutline {
+    outline: solid white 5px;
+}
+
+.whitetext {
+    color: white;
+    font-size: large;
+}
+.greenoutline {
+    outline: solid lawngreen 5px;
+}
+
+.greentext {
+    color: lawngreen;
+    font-size: large;
+}
+.textj{
+    padding:5px;
+}
+.lastbit{
+    padding:10px;
+    padding-top:30px;
+}
+.finally{
+    width:33.33%;
+    float:left;
+    padding-bottom:30px;
+}
+.whatwevedone {
+    color: tomato;
+    text-align: center;
+    font-size: 30px;
+    padding:30px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 45%;
+
+}
+
+.blue {
+    border-left: solid dodgerblue 10px;
+}
+.red {
+    border-left: solid 10px tomato;
+}
+.green {
+    border-left: solid 10px lawngreen;
+}
